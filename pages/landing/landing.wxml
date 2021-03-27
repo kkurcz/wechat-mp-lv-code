@@ -1,0 +1,8 @@
+<!--pages/landing/landing.wxml-->
+<view class="banner" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://picsum.photos/200/500);">
+  <view class="container">
+    <view class="h1">❤️ My Code brings <strong>tech skills</strong> to <strong>creative people</strong>!</view>
+    <view class="p">Change your life and learn to code at one of our camviewuses around the world.</view>
+    <navigator class="btn btn-flat" href="#">Apply now</navigator>
+  </view>
+</view>
